@@ -81,7 +81,7 @@ curl -d "Hello World !" 192.168.0.9:8080/mytopic
 
 Also we have to subscribe the same in our mobile to get the notification, 
 
-![alt text](image.png)
+![alt text](../images/ntfy/ntfy_message_subscribed.png)
 
 That Simple it is. 
 
